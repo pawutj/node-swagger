@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/pawutj/node-swagger#readme",
   "dependencies": {
-    "swagger-ui-express": "^4.2.0"
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "swagger-ui-express": "^4.2.0",
+    "yamljs": "^0.3.0"
   }
 }
