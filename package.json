@@ -1,0 +1,23 @@
+{
+  "name": "swagger",
+  "version": "1.0.0",
+  "description": "node-swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawutj/node-swagger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawutj/node-swagger/issues"
+  },
+  "homepage": "https://github.com/pawutj/node-swagger#readme",
+  "dependencies": {
+    "swagger-ui-express": "^4.2.0"
+  }
+}
